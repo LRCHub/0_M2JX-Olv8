@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Feather",
+  "base_artist": "Nujabes",
+  "createdAt": "2025-12-25T10:27:01.933168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feather",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/01_Feather_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "feather light",
+      "artist": "santpoort feat. Little Green",
+      "has_synced": true,
+      "path": "select/02_feather_light_santpoort_feat._Little_Green.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "feather light",
+      "artist": "santpoort",
+      "has_synced": true,
+      "path": "select/03_feather_light_santpoort.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake Your Tail Feather",
+      "artist": "The Blues Brothers",
+      "has_synced": true,
+      "path": "select/04_Shake_Your_Tail_Feather_The_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Like a Bird Without a Feather",
+      "artist": "R.L. Burnside",
+      "has_synced": false,
+      "path": "select/05_Just_Like_a_Bird_Without_a_Feather_R.L._Burnside.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Did (ft Feather)",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/06_I_Did_(ft_Feather)_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feather",
+      "artist": "Nujabes feat. Cise Star & Akin",
+      "has_synced": true,
+      "path": "select/07_Feather_Nujabes_feat._Cise_Star_&_Akin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feather In Your Cap",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/08_Feather_In_Your_Cap_Beck.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feather In Your Cap",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/09_Feather_In_Your_Cap_Beck.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Light As a Feather",
+      "artist": "Chromatics",
+      "has_synced": true,
+      "path": "select/10_Light_As_a_Feather_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feather - Fromwood Remix",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/11_Feather_-_Fromwood_Remix_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feather (Fromwood Remix) (Fromwood)",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/12_Feather_(Fromwood_Remix)_(Fromwood)_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feather",
+      "artist": "Meg Myers",
+      "has_synced": true,
+      "path": "select/13_Feather_Meg_Myers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Feather In Your Cap",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/14_A_Feather_In_Your_Cap_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somewhere There's a Feather",
+      "artist": "Nico",
+      "has_synced": true,
+      "path": "select/15_Somewhere_There's_a_Feather_Nico.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feather (feat. Cise Starr & Akin from CYNE)",
+      "artist": "Nujabes",
+      "has_synced": false,
+      "path": "select/pl_01_Feather_(feat._Cise_Starr_&_Akin_from_CYNE)_Nujabes.txt"
+    }
+  ]
+}
